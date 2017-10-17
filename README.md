@@ -1,0 +1,1 @@
+# Parity Dapp Skeleton

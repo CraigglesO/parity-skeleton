@@ -1,0 +1,23 @@
+{
+  "short_name": "Skeleton Dapp",
+  "id": "skeleton",
+  "name": "Create React Dapp for Parity UI",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+	"description": "A skeleton dapp",
+	"version": "0.1.0",
+	"author": "Parity Technologies Ltd",
+	"iconUrl": "title.png",
+  "permissions": {
+    
+  }
+}
